@@ -8,11 +8,6 @@
         Dim lectureBIN As IO.FileStream, tabTampon() As Byte, pas As Integer, tabEcriture() As Byte, compteur As Integer, nbPas As Integer, offsetProf As Integer
         Dim keyBIN As String, keyUCI As String
 
-        If My.Computer.FileSystem.GetFileInfo(Environment.GetFolderPath(Environment.SpecialFolder.UserProfile) & "\Documents\Visual Studio 2013\Projects\expExtract\expExtract\bin\Debug\expExtract.exe").LastWriteTime > My.Computer.FileSystem.GetFileInfo(My.Application.Info.AssemblyName & ".exe").LastWriteTime Then
-            MsgBox("Il existe une version plus récente de ce programme !", MsgBoxStyle.Information)
-            End
-        End If
-
         fichierPGN = Replace(Command(), """", "")
         If fichierPGN = "" Then
             End
@@ -27,14 +22,9 @@
         cibleBIN = Replace(fichierPGN, ".pgn", "_experience.bin")
 
         'chargement parametres
-        moteurBIN = "E:\JEUX\ARENA CHESS 3.5.1\Engines\BrainLearn\20T BrainLearn 13.1 x64 BMI2.exe"
-        sourceBIN = "E:\JEUX\ARENA CHESS 3.5.1\Engines\BrainLearn\experience.bin"
-        pgnExtract = "E:\JEUX\ARENA CHESS 3.5.1\Databases\PGN Extract GUI\pgn-extract.exe"
-        If My.Computer.Name = "PLEXI" Then
-            moteurBIN = "D:\JEUX\ARENA CHESS 3.5.1\Engines\BrainLearn\20T BrainLearn 13.1 x64 PCNT.exe"
-            sourceBIN = "D:\JEUX\ARENA CHESS 3.5.1\Engines\BrainLearn\experience.bin"
-            pgnExtract = "D:\JEUX\ARENA CHESS 3.5.1\Databases\PGN Extract GUI\pgn-extract.exe"
-        End If
+        moteurBIN = "BrainLearn.exe"
+        sourceBIN = "experience.bin"
+        pgnExtract = "pgn-extract.exe"
         priorite = 64
         fichierINI = My.Computer.Name & ".ini"
         If My.Computer.FileSystem.FileExists(fichierINI) Then
