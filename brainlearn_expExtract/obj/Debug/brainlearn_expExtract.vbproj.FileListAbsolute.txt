@@ -1,0 +1,9 @@
+C:\Users\chris\Documents\Visual Studio 2013\Projects\brainlearn_expExtract\brainlearn_expExtract\bin\Debug\brainlearn_expExtract.exe.config
+C:\Users\chris\Documents\Visual Studio 2013\Projects\brainlearn_expExtract\brainlearn_expExtract\bin\Debug\brainlearn_expExtract.exe
+C:\Users\chris\Documents\Visual Studio 2013\Projects\brainlearn_expExtract\brainlearn_expExtract\bin\Debug\brainlearn_expExtract.pdb
+C:\Users\chris\Documents\Visual Studio 2013\Projects\brainlearn_expExtract\brainlearn_expExtract\bin\Debug\brainlearn_expExtract.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\brainlearn_expExtract\brainlearn_expExtract\obj\Debug\brainlearn_expExtract.Resources.resources
+C:\Users\chris\Documents\Visual Studio 2013\Projects\brainlearn_expExtract\brainlearn_expExtract\obj\Debug\brainlearn_expExtract.vbproj.GenerateResource.Cache
+C:\Users\chris\Documents\Visual Studio 2013\Projects\brainlearn_expExtract\brainlearn_expExtract\obj\Debug\brainlearn_expExtract.exe
+C:\Users\chris\Documents\Visual Studio 2013\Projects\brainlearn_expExtract\brainlearn_expExtract\obj\Debug\brainlearn_expExtract.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\brainlearn_expExtract\brainlearn_expExtract\obj\Debug\brainlearn_expExtract.pdb

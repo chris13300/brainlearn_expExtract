@@ -1,0 +1,83 @@
+﻿[Event "repetition noir"]
+[Site "BOIS"]
+[Date "2020.06.20"]
+[Round "1"]
+[White "brainfish_chris"]
+[Black "brainfish_leela"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[Opening "Saragossa Opening"]
+[PlyCount "12"]
+[TimeControl "30+1"]
+
+1. c2-c3 e7-e6 2. d2-d4 Ng8-f6 3. Bc1-f4 Nf6-h5 4. Bf4-c1 Nh5-f6 5. Bc1-f4 Nf6-h5 6. Bf4-c1 Nh5-f6 1/2-1/2
+
+[Event "repetition blanc"]
+[Site "WORKSTATION"]
+[Date "2019.09.19"]
+[Round "2"]
+[White "20T SugarNN 170120 x64 BMI2"]
+[Black "2070 LC0 0.23.2 CUDA T40B.4-160"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[Opening "Ouverture de Saragosse"]
+[TimeControl "180+2"]
+[PlyCount "13"]
+
+1. c2-c3 Ng8-f6 2. d2-d4 e7-e6 3. Bc1-f4 Nf6-h5 4. Bf4-d2 Nh5-f6 5. Bd2-f4 Nf6-h5 6. Bf4-c1 Nh5-f6 7. Bc1-f4 1/2-1/2
+
+[Event "fen victoire"]
+[Site "WORKSTATION"]
+[Date "2017.11.12"]
+[Round "5"]
+[White "brainfish_chris"]
+[Black "brainfish_cerebellum"]
+[Result "1-0"]
+[PlyCount "97"]
+[SetUp "1"]
+[TimeControl "30+1"]
+[FEN "rnbqkbnr/ppppp1pp/5p2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 1"]
+
+1. e2-e4 Nb8-c6 2. d4-d5 Nc6-e5 3. Ng1-f3 Ne5xf3+ 4. Qd1xf3 e7-e6 5. Nb1-c3 Bf8-b4 6. Bc1-d2 Ng8-e7 7. d5xe6 d7xe6 8. Qf3-h5+ g7-g6 9. Qh5-h6 Ke8-f7 10. 0-0-0 Qd8-f8 11. Qh6-h4 Ne7-c6 12. e4-e5 Nc6xe5 13. Bd2-h6 Qf8-e7 14. Nc3-e4 a7-a5 15. Bf1-b5 c7-c6 16. Bb5-e2 b7-b5 17. a2-a3 Bb4-c5 18. Qh4-g3 Rh8-e8 19. h2-h4 Ne5-c4 20. h4-h5 Re8-g8 21. h5xg6+ h7xg6 22. Bh6-g5 f6xg5 23. Rh1-h7+ Rg8-g7 24. Rh7-h8 Rg7-g8 25. Ne4xg5+ Qe7xg5+ 26. Qg3xg5 Rg8xh8 27. Qg5xc5 e6-e5 28. b2-b3 Nc4xa3 29. Qc5xa3 Bc8-e6 30. Qa3-d6 Ra8-e8 31. Qd6xc6 Re8-e7 32. Qc6xb5 Kf7-f6 33. Rd1-d6 g6-g5 34. Qb5-d5 Rh8-h4 35. Be2-c4 Rh4xc4 36. Qd5xc4 Re7-e8 37. Qc4-e4 a5-a4 38. b3xa4 Kf6-f7 39. Qe4-h7+ Kf7-f6 40. g2-g4 e5-e4 41. Qh7-f5+ Kf6-g7 42. Rd6xe6 Re8xe6 43. Qf5xe6 e4-e3 44. f2xe3 Kg7-h8 45. Qe6-d7 Kh8-g8 46. a4-a5 Kg8-f8 47. a5-a6 Kf8-g8 48. a6-a7 Kg8-h8 49. a7-a8=Q# 1-0
+
+[Event "fen defaite"]
+[Site "WORKSTATION"]
+[Date "2017.11.12"]
+[Round "6"]
+[White "brainfish_chris"]
+[Black "brainfish_cerebellum"]
+[Result "0-1"]
+[PlyCount "112"]
+[SetUp "1"]
+[TimeControl "30+1"]
+[FEN "rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 1"]
+
+1. Ng1-f3 Nb8-c6 2. Bf1-c4 Bf8-c5 3. c2-c3 Ng8-f6 4. d2-d3 0-0 5. 0-0 d7-d6 6. Bc1-g5 h7-h6 7. Bg5-h4 a7-a6 8. d3-d4 Bc5-a7 9. d4-d5 g7-g5 10. Nf3xg5 h6xg5 11. Bh4xg5 Nc6-b8 12. Nb1-d2 Kg8-g7 13. Qd1-f3 Nb8-d7 14. Rf1-c1 Rf8-h8 15. Nd2-f1 Nd7-f8 16. h2-h3 Nf8-h7 17. Bg5-h4 Rh8-g8 18. Nf1-g3 Kg7-h8 19. Ng3-h5 Rg8-g6 20. g2-g4 Qd8-f8 21. Nh5xf6 Qf8-h6 22. Qf3-g3 Nh7xf6 23. Bh4xf6+ Rg6xf6 24. Rc1-f1 Bc8-d7 25. Kg1-g2 Ra8-g8 26. b2-b3 Rf6-f4 27. f2-f3 f7-f5 28. Bc4-e2 f5xe4 29. f3xe4 Rf4xe4 30. Ra1-e1 Re4-f4 31. c3-c4 Rg8-f8 32. Rf1xf4 e5xf4 33. g4-g5 Qh6-h7 34. g5-g6 f4xg3 35. g6xh7 Ba7-f2 36. Re1-c1 Bd7-f5 37. Rc1-c3 Bf5-e4+ 38. Be2-f3 Rf8xf3 39. Rc3xf3 Kh8xh7 40. c4-c5 Be4xf3+ 41. Kg2xf3 d6xc5 42. a2-a3 Kh7-g6 43. Kf3-g2 Kg6-h5 44. Kg2-f1 Kh5-h4 45. Kf1-g2 Bf2-d4 46. a3-a4 Bd4-f2 47. Kg2-f3 Kh4xh3 48. d5-d6 c7xd6 49. Kf3-f4 g3-g2 50. Kf4-f5 g2-g1=Q 51. Kf5-e6 Qg1-g7 52. Ke6xd6 Kh3-g4 53. Kd6-e6 Kg4-f3 54. Ke6-f5 Qg7-f7+ 55. Kf5-g5 Bf2-e3+ 56. Kg5-h4 Qf7-h7# 0-1
+
+[Event "pat noir"]
+[Site "xeon e5-1650v4"]
+[Date "2020.10.11"]
+[Round "3"]
+[White "stockfish 210920 classical d22"]
+[Black "stockfish 210920 nn-03744f8d56d8 d18"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[Opening "Amar (Paris) Opening"]
+[PlyCount "70"]
+
+1. Ng1-h3 Ng8-h6 2. d2-d4 g7-g6 3. d4-d5 Bf8-g7 4. e2-e4 d7-d6 5. Nh3-g5 c7-c6 6. c2-c4 0-0 7. Bf1-e2 Nb8-a6 8. Nb1-c3 Na6-c5 9. 0-0 c6xd5 10. c4xd5 f7-f5 11. Bc1-e3 Nc5xe4 12. Ng5xe4 f5xe4 13. g2-g4 Nh6-f7 14. Nc3xe4 Bg7xb2 15. Ra1-b1 Bb2-g7 16. f2-f4 b7-b6 17. Be3-d4 Bg7xd4+ 18. Qd1xd4 Bc8-d7 19. h2-h3 Ra8-c8 20. Be2-d3 b6-b5 21. Bd3xb5 Bd7xb5 22. Rb1xb5 Qd8-c7 23. Rf1-e1 Rc8-b8 24. Qd4-c3 Qc7-c8 25. Rb5xb8 Qc8xb8 26. Qc3-d2 Rf8-c8 27. Kg1-g2 Rc8-c4 28. Kg2-g3 Qb8-b6 29. Ne4-g5 Nf7xg5 30. f4xg5 Qb6-c5 31. Qd2-e2 Rc4-c3+ 32. Kg3-h4 Qc5-a3 33. Qe2-e6+ Kg8-h8 34. Re1-e3 Rc3xe3 35. Qe6-g8+ Kh8xg8 1/2-1/2
+
+[Event "pat blanc"]
+[Site "core i7-6700k"]
+[Date "2021.01.20"]
+[Round "4"]
+[White "stockfish 190720 no-nnue"]
+[Black "350m_d14_evalsave2_rejected"]
+[Result "1/2-1/2"]
+[ECO "A45"]
+[Opening "Trompovsky attack (Ruth, Opovcensky Opening)"]
+[PlyCount "71"]
+[TimeControl "60+1"]
+
+1. d2-d4 Ng8-f6 2. Bc1-g5 g7-g6 3. Nb1-c3 Bf8-g7 4. e2-e4 d7-d6 5. f2-f4 0-0 6. Ng1-f3 c7-c5 7. d4xc5 Qd8-a5 8. Bf1-d3 Qa5xc5 9. Qd1-d2 Bc8-g4 10. 0-0-0 Nb8-c6 11. Kc1-b1 b7-b5 12. Bg5xf6 Bg7xf6 13. Nc3-d5 a7-a5 14. Nd5xf6+ e7xf6 15. h2-h3 Bg4xf3 16. g2xf3 a5-a4 17. c2-c3 Rf8-d8 18. h3-h4 b5-b4 19. c3xb4 Nc6xb4 20. h4-h5 a4-a3 21. b2-b3 Nb4xd3 22. Qd2xd3 Ra8-c8 23. Qd3-e2 g6xh5 24. Rd1-d5 Qc5-c3 25. Rd5xh5 Rc8-c6 26. Rh5xh7 Kg8-f8 27. Rh7-h8+ Kf8-e7 28. Rh8xd8 Ke7xd8 29. f4-f5 Qc3-e5 30. Rh1-d1 Rc6-c3 31. Rd1-d2 Kd8-e8 32. Qe2-a6 Qe5-g3 33. Qa6xd6 Qg3-e1+ 34. Rd2-d1 Rc3-c1+ 35. Rd1xc1 Qe1xc1+ 36. Kb1xc1 1/2-1/2
+
